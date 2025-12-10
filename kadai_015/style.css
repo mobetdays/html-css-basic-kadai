@@ -15,7 +15,7 @@ h1 {
   font-family: "Josefin Sans", sans-serif;
   font-size: 2rem;
   letter-spacing: 1.2em;
-  text-shadow:3px 3px 5px yellow;
+  text-shadow:2px 2px 4px rgb(128, 128, 128);
   border-bottom: solid 3px rgb(115, 115, 114);
 }
 #basic p {
